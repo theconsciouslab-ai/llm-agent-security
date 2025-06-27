@@ -154,7 +154,7 @@ To run a prompt injection test on Azure OpenAI GPT-4 (MCP):
 test_config = {
     "model_name": "azure_gpt_4_1",
     "initial_messages": [{"role": "user", "content": "Hi!"}],
-    "categories": "simple",
+    "categories": "simple_attacks",
     "attack_types": "user_prompt_injection"
 }
 ```
