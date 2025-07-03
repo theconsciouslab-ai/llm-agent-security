@@ -9,7 +9,7 @@
 
 **Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms**
 
-*Tarek Gasmi, Ramzi Gasmi, Ines Belhadj, Jihene Bennaceur*
+*Tarek Gasmi, Ramzi Gasmi, Jihene Bennaceur, Ines Belhadj*
 
 [Read Paper](https://arxiv.org/abs/XXXX.XXXXX) | [Cite](#citation)
 
