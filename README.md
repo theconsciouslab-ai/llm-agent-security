@@ -2,16 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/2507.06323)
 [![Downloads](https://img.shields.io/badge/Downloads-1.3k%2Fmonth-brightgreen.svg)](https://github.com/theconsciouslab-ai/llm-agent-security)
 
 ## 📰 Paper
 
 **Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms**
 
-*Tarek Gasmi, Ramzi Gasmi, Jihene Bennaceur, Ines Belhadj*
+*Tarek Gasmi, Ramzi Guesmi, Jihene Bennaceur, Ines Belhadj*
 
-[Read Paper](https://arxiv.org/abs/XXXX.XXXXX) | [Cite](#citation)
+[Read Paper](https://arxiv.org/abs/2507.06323) | [Cite](#citation)
 
 ## 🎯 Overview
 
@@ -175,8 +175,8 @@ If you use this framework in your research, please cite:
 ```bibtex
 @article{gasmi2025bridging,
   title={Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms},
-  author={Gasmi, Tarek and Gasmi, Ramzi and Belhadj, Ines and Bennaceur, Jihene},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  author={Gasmi, Tarek and Guesmi, Ramzi and Bennaceur, Jihene and Belhadj, Ines},
+  journal={arXiv preprint arXiv:2507.06323},
   year={2025}
 }
 ```
