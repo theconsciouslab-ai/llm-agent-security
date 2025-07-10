@@ -1,4 +1,4 @@
-# Bridging AI and Software Security: LLM Agent Vulnerability Assessment Framework
+*# Bridging AI and Software Security: LLM Agent Vulnerability Assessment Framework
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -11,7 +11,7 @@
 
 *Tarek Gasmi, Ramzi Guesmi, Jihene Bennaceur, Ines Belhadj*
 
-[Read Paper](https://arxiv.org/abs/2507.06323) | [Cite](#citation)
+[Read Paper](https://arxiv.org/abs/2507.06323) | [Cite](#-citation)
 
 ## 🎯 Overview
 
